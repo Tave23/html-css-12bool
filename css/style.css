@@ -1,0 +1,21 @@
+.box{
+   padding: 20px;
+   background-color: blue;
+   color: white;
+   text-align: center;
+   border: 1px solid white;
+}
+
+.box-green{
+   padding: 10px;
+   background-color: green;
+   color: white;
+   text-align: center;
+   border: 1px solid blue;
+}
+
+.separatore{
+   height: 20px;
+   width: 100%;
+   background-color: white;
+}
