@@ -1,5 +1,5 @@
 .box{
-   padding: 20px;
+   padding: 10px;
    background-color: blue;
    color: white;
    text-align: center;
@@ -7,12 +7,15 @@
 }
 
 .box-green{
-   /* background-color: green;
-   text-align: center;
-   color: white; */
-   padding: 20px;
+   padding: 10px;
    background-color: green;
    color: white;
    text-align: center;
-   border: 1px solid white;
+   border: 1px solid blue;
+}
+
+.separatore{
+   height: 20px;
+   width: 100%;
+   background-color: white;
 }
