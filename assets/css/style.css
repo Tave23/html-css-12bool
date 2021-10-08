@@ -5,3 +5,14 @@
    text-align: center;
    border: 1px solid white;
 }
+
+.box-green{
+   /* background-color: green;
+   text-align: center;
+   color: white; */
+   padding: 20px;
+   background-color: green;
+   color: white;
+   text-align: center;
+   border: 1px solid white;
+}
